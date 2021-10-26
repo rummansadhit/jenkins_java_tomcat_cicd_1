@@ -11,7 +11,7 @@ node{
       
       sshagent(['tomcat-id']) {
          sh 'scp -o StrictHostKeyChecking=no target/*.war rummansadhit@52.146.38.46:/opt/tomcat/apache-tomcat-8.5.71/webapps/'
-      }
+       }
     
    }
 
