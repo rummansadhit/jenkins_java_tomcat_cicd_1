@@ -1,4 +1,4 @@
-# simple-servlet
+# simple-servlet test
 
 A simple example of a Java servlet and a JSP. 
 
